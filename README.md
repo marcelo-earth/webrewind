@@ -39,10 +39,9 @@ Web Rewind is an open source project.
 
 If you want to be the author of a new feature, fix a bug or contribute with something new.
 
-Fork the repository and make changes as you like. [Pull requests](https://github.com/360macky/project-name/pulls) are warmly welcome.
+Fork the repository and make changes as you like. [Pull requests](https://github.com/marcelo-earth/webrewind/pulls) are warmly welcome.
 
 ## 📃 License
 
 Distributed under the MIT License.
 See [`LICENSE`](./LICENSE) for more information.
-
